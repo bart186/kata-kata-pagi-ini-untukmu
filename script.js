@@ -1,5 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
-
+const message = `pagi pagi gini emang paling sempurna kalau ada kamu disampingku hhh aku cuma mau kamu tau kalau aku selalu sayang kamu, tiap hari, tiap jam bahkan tiap detik. rasa sayangku ke kamu gaakan pernah berubah percaya dehh, kamu adalah alasan aku bisa senyum di setiap harinya dan selalu ngebuat hari ku yang awalnya suram jadi cerah bangetbangetbanget. as long as i'm with you i've gotta smile on my face. you make me feel like no one ever has before, i'm the luckiest to able call you mineee hihi, thank uuu for loving me bub! aku mau kita selamanya bakal bareng gini terus, i swear, i want us to last forever as long as forever is a thing, i don't want to be with anyone else, ever. i just want to be with you, hari hariku bakal aku abisin buat bikin kamu bahagiaa sama hal nya kaya apa yang kamu lakuin ke aku, i just wanted to leave you something cute, and remind you that no matter what happens, i will always love you. sekali lagii, selamat pagi cantikku and have a pleasant day ya, kalau ada yang jahat ke kamu
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
   document.querySelector(".btn").style.display = "none";
@@ -21,3 +20,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
